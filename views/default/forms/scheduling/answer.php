@@ -69,7 +69,7 @@ $guid_input = elgg_view('input/hidden', array(
 ));
 
 echo <<<FORM
-	<div id="elgg-scheduling-answer-container">
+    <div id="elgg-scheduling-answer-container">
 		<table class="elgg-table" id="elgg-table-scheduling-answer">
 			<tr>$date_row</tr>
 			<tr>$slot_row</tr>

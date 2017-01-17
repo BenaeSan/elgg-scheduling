@@ -4,9 +4,9 @@
 }
 
 #elgg-scheduling-answer-container {
-	width: 710px;
+	width: 800px;
 	overflow: auto;
-	margin: 0 0 30px 0;
+	margin:  0 1% 30px 0px;
 }
 
 #elgg-table-scheduling {
